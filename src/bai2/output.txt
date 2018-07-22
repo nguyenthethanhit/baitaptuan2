@@ -1,0 +1,7 @@
+we  xuat hien: 6 lan
+ln 1 ,col: 4
+ln 2 ,col: 22
+ln 2 ,col: 91
+ln 3 ,col: 10
+ln 4 ,col: 21
+ln 4 ,col: 157
